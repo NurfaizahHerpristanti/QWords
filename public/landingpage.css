@@ -1,0 +1,55 @@
+body{
+    background-image: url();
+    background-size: cover;
+}
+
+.navbar{
+    margin-left: 30px
+}
+
+.nav-link{
+    margin-left: 20px;
+}
+
+.Ppp{
+    font-size: 85px;
+    font-weight: bold;
+    margin-left: 525px;
+    margin-top: 40px;
+}
+
+.Jjj{
+    font-size: 85px;
+    font-weight: bold;
+    margin-left: 662px;
+    margin-top: 29px;
+}
+
+.Kkk{
+    color: darkorange;
+    font-size: 85px;
+    font-weight: bold;
+    margin-left: 355px;
+}
+
+.Lll{
+    text-align: center;
+    font-size: 18px;
+    margin-left: 400px;
+    margin-right: 350px;
+}
+
+.Mmm{
+    color: orangered;
+    font-weight: bold;
+    margin-left: 620px;
+}
+
+.button2{
+    background-color: orangered;
+    border-radius: 25px;
+    margin-left: 690px;
+    width: 200px;
+    height: fit-content;
+    text-align: center;
+}
